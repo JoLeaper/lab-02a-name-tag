@@ -1,0 +1,44 @@
+header {
+    font-style: normal;
+    font-family: normal;
+    text-align: center;
+    color: white;
+    background-color: red;
+    width: 266px;
+    border-radius: 5px 5px 0px 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.nametag-top h1{
+    font-weight: 10px;
+    margin-bottom: 0px;
+}
+
+.nametag-top h2{
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+
+
+body {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    background-color: white;
+    width: 266px;
+}
+
+.nametag-middle{
+    font-family: cursive;
+}
+
+footer {
+    height: 34px;
+    width: 266px;
+    color: red;
+    background-color: red;
+    border-radius: 0px 0px 5px 5px;
+}
