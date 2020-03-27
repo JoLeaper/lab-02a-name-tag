@@ -6,6 +6,7 @@ header {
     background-color: red;
     width: 266px;
     border-radius: 5px 5px 0px 0px;
+    border: 1px solid black;
     margin: 0px;
     padding: 0px;
 }
@@ -33,10 +34,15 @@ body {
     font-family: cursive;
 }
 
+.name-input{
+    text-align: center;
+}
+
 footer {
-    height: 34px;
+    height: 68px;
     width: 266px;
     color: red;
     background-color: red;
+    border: 1px solid black;
     border-radius: 0px 0px 5px 5px;
 }
