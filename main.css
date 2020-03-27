@@ -1,3 +1,7 @@
+* {
+    align-items: center;
+}
+
 header {
     font-style: normal;
     font-family: normal;
@@ -27,16 +31,16 @@ body {
     font-style: italic;
     color: black;
     background-color: white;
+   
     width: 266px;
 }
 
 .nametag-middle{
-    font-family: cursive;
+    font-family: cursive; 
+    height: 30px;
 }
 
-.name-input{
-    text-align: center;
-}
+
 
 footer {
     height: 68px;
@@ -45,4 +49,9 @@ footer {
     background-color: red;
     border: 1px solid black;
     border-radius: 0px 0px 5px 5px;
+    text-align: center;
+}
+
+.name-input{
+    text-align: center;
 }

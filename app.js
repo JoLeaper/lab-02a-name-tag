@@ -7,14 +7,8 @@ myButton.addEventListener('click', () => {
     const myInput = nameInput.value;
 
     pTag.textContent = myInput;
+
+    if(myInput === 'Kira Yoshikage') {
+        location.replace('https://youtu.be/yUCGIL1k1dw?t=156');
+    }
 });
-
-
-
-
-
-
-// myButton.addEventListener('click', changeName);
-// myButton.addEventListener('click', function() {});
-// pTag.textContent = 'Johnny Blaze';
-// pTag.style.color = 'blue';
